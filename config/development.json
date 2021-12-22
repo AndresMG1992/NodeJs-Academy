@@ -1,0 +1,10 @@
+{
+    "HOSTNAME": "localhost",
+    "PORT": 3000,
+    "ENV": "dev",
+    "SUPPRESS_NO_CONFIG_WARNING": true,
+    "REDIS_PORT": 6379,
+    "TIMEOUT": 3000,
+    "MONGO_HOST": "cluster0.rcbrr.mongodb.net",
+    "MONGO_DB": "securitydb"
+}
